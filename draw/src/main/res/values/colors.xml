@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Mau7">#CC99CC</color>
+    <color name="den">#000000</color>
+    <color name="xam_than">#212121</color>
+    <color name="xam_dam">#424242</color>
+    <color name="xam">#757575</color>
+    <color name="xam_nhat">#BDBDBD</color>
+    <color name="trang">#FFFFFF</color>
+
+    <color name="do_tuoi">#F44336</color>
+    <color name="do_dam">#C62828</color>
+    <color name="do_cam">#FF5722</color>
+
+    <color name="hong_dam">#C2185B</color>
+    <color name="hong">#E91E63</color>
+    <color name="hong_nhat">#F8BBD0</color>
+    <color name="hong_pastel">#F4C2C2</color>
+
+    <color name="tim_dam">#6A1B9A</color>
+    <color name="tim">#9C27B0</color>
+    <color name="tim_nhat">#CE93D8</color>
+    <color name="tim_pastel">#CC99CC</color>
+
+    <color name="indigo">#3F51B5</color>
+    <color name="xanh_navy">#1A237E</color>
+    <color name="xanh_duong_dam">#1565C0</color>
+    <color name="xanh_duong">#2196F3</color>
+    <color name="xanh_da_troi">#03A9F4</color>
+    <color name="xanh_duong_nhat">#BBDEFB</color>
+    <color name="xanh_cyan">#00BCD4</color>
+
+    <color name="xanh_ngoc">#009688</color>
+    <color name="xanh_teal_dam">#00695C</color>
+    <color name="xanh_la_dam">#2E7D32</color>
+    <color name="xanh_la">#4CAF50</color>
+    <color name="xanh_la_nhat">#A5D6A7</color>
+    <color name="xanh_mint">#B2DFDB</color>
+    <color name="xanh_reu">#689F38</color>
+    <color name="xanh_olive">#827717</color>
+
+    <color name="vang_chanh">#CDDC39</color>
+    <color name="vang">#FFEB3B</color>
+    <color name="vang_dam">#FBC02D</color>
+    <color name="vang_nhat">#FFF9C4</color>
+    <color name="vang_gold">#FFC107</color>
+
+    <color name="cam_dam">#EF6C00</color>
+    <color name="cam">#FF9800</color>
+    <color name="cam_nhat">#FFE0B2</color>
+
+    <color name="nau_dam">#4E342E</color>
+    <color name="nau">#795548</color>
+    <color name="nau_nhat">#BCAAA4</color>
+    <color name="be">#D7CCC8</color>
+    <color name="kem">#FFF8E1</color>
+
+    <color name="dao">#FFAB91</color>
+    <color name="san_ho">#FF7F50</color>
+    <color name="xanh_xam">#607D8B</color>
+    <color name="bac">#C0C0C0</color>
+    <color name="vang_kim">#D4AF37</color>
+</resources>
